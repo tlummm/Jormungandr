@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "Qwen_css_20260713_cfx5g45hk"
+  ],
+  "cssTheme": "Typewriter"
+}

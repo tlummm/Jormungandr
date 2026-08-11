@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2583ca3b35590b89",
+        "id": "a2d47e45ea567d53",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd613a8fab2456f",
+            "id": "04a900c0e0ef1cf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capítulos/Rascunhos/Capítulo 1 - O porquê das coisas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Capítulo 1 - O porquê das coisas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -183,16 +179,27 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "dfd613a8fab2456f",
+  "active": "59aeb565bab9bd1d",
   "lastOpenFiles": [
-    "Capítulos/Rascunhos/Capítulo 5 - Jogo de Cartas.md",
-    "Capítulos/Rascunhos/Capítulo 3 - Frágil.md",
-    "Capítulos/Rascunhos/Capítulo 2 - A Quimera.md",
-    "Capítulos/Rascunhos/Capítulo 4 - Sem Nome.md",
-    "Capítulos/Rascunhos/Capítulo 1 - O porquê das coisas.md",
+    "Construção de Mundo/Capa/Jormungand_O garoto que assustava monstros_Capa_1536x2400.jpg",
+    "Construção de Mundo/Capa/Outros/Jormungand_O garoto que assustava monstros_Capa_512x800.jpg",
+    "Narrativa/Rascunhos/Rascunho Geral.md",
+    "Narrativa/Rascunhos/Antigo/Capítulo 4 - Sem Nome.md",
+    "Narrativa/Capítulos/lu139726z500.tmp",
+    "Narrativa/Rascunhos/Antigo/Capítulo 5 - Jogo de Cartas.md",
+    "Narrativa/Rascunhos/Antigo/Capítulo 1 - O porquê das coisas.md",
+    "Narrativa/Rascunhos/Antigo/Capítulo 2 - A Quimera.md",
+    "Narrativa/Rascunhos/Antigo/Capítulo 3 - Frágil.md",
+    "Narrativa/Capítulos/Capítulo 01 - O porquê das coisas.docx",
+    "Narrativa/Rascunhos/Antigo/Capítulo X - Título.odt",
+    "Narrativa/Rascunhos/Antigo/Capítulo 01 - O porquê das coisas.docx",
+    "Narrativa/Rascunhos/Antigo/Capítulo 00 - Prologo - Um Trabalho Incomum.odt",
+    "Narrativa/Rascunhos/Antigo",
     "Sobre.md",
-    "Capa/Jormungand_O garoto que assustava monstros_Capa_1536x2400.jpg",
-    "Capa/Outros/Jormungand_O garoto que assustava monstros_Capa_512x800_Cinza_v2.jpg",
-    "Capa/Outros/Jormungand_O garoto que assustava monstros_Capa_512x800.jpg"
+    "Construção de Mundo",
+    "Narrativa",
+    "Outros",
+    "Capítulos/Rascunhos/lu314845ally.tmp",
+    "Construção de Mundo/Capa/Outros/Jormungand_O garoto que assustava monstros_Capa_512x800_Cinza_v2.jpg"
   ]
 }
