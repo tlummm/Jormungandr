@@ -1,0 +1,1 @@
+É uma serpente da mitologia nórdica, sendo um ser tão colossal que dá a volta ao mundo, fazendo parte do Ragnarök (fim apocalíptico dos deuses).
